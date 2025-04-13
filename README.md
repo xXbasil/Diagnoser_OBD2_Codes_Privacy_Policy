@@ -1,29 +1,33 @@
-Privacy Policy for Diagnoser | OBD2 Codes
-Last Updated: April 13, 2025
+# Privacy Policy for Diagnoser | OBD2 Codes  
+**Last Updated:** April 13, 2025  
 
-Developer: Basel AbuTaleb
-Contact Email: baabutaleb@gmail.com
+**Developer:** Basel AbuTaleb  
+**Contact:** [baabutaleb@gmail.com](mailto:baabutaleb@gmail.com)  
 
-Thank you for choosing Diagnoser | OBD2 Codes. This app is designed to respect your privacy completely.
+## Privacy Commitment
+Diagnoser | OBD2 Codes is designed with a fundamental principle: **Your data stays yours**.
 
-1. No Data Collection
-We do not collect, store, or transmit any personal information or usage data
+## 1. Data Collection
+- 🚫 **No personal data collected**
+- 📵 **No usage tracking**
+- 📍 **No location access**
+- 🔒 **All code data stored locally**
 
-The app contains no tracking mechanisms, analytics, or location services
+## 2. Offline Operation
+- 🌐 **No internet required**
+- 🖥️ **No server communication**
+- 💾 **100% on-device processing**
 
-All OBD2 code information is stored locally on your device
+## 3. Third-Party Services
+- ��� **No advertisements**
+- 📊 **No analytics**
+- 📦 **No external frameworks**
 
-2. Fully Offline Operation
-The app requires no internet connection and never communicates with any servers
+## 4. Changes
+Updates to this policy will be:
+- 📅 Dated above
+- ℹ️ Clearly documented
 
-All features work completely offline with no data transmission
-
-3. No Third-Party Services
-The app contains no advertising, analytics, or external tracking frameworks
-
-4. Policy Updates
-Any changes to this policy will be posted here. Continued use means you accept these terms.
-
-5. Contact Information
-For any privacy-related questions:
-📧 baabutaleb@gmail.com
+## Contact
+For privacy questions:  
+✉️ [Email Developer](mailto:baabutaleb@gmail.com)
